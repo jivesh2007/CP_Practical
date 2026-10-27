@@ -1,0 +1,7 @@
+{"Experiment_ID":"EXP001","Time_min":0,"Temperature_C":25,"Pressure_bar":1.0,"Concentration_mol_L":1.0,"Concentration_Change":0.0}
+{"Experiment_ID":"EXP001","Time_min":10,"Temperature_C":30,"Pressure_bar":1.05,"Concentration_mol_L":0.92,"Concentration_Change":-0.08}
+{"Experiment_ID":"EXP001","Time_min":20,"Temperature_C":35,"Pressure_bar":1.1,"Concentration_mol_L":0.84,"Concentration_Change":-0.08}
+{"Experiment_ID":"EXP001","Time_min":30,"Temperature_C":40,"Pressure_bar":1.15,"Concentration_mol_L":0.76,"Concentration_Change":-0.08}
+{"Experiment_ID":"EXP002","Time_min":0,"Temperature_C":25,"Pressure_bar":1.0,"Concentration_mol_L":1.2,"Concentration_Change":0.0}
+{"Experiment_ID":"EXP002","Time_min":10,"Temperature_C":32,"Pressure_bar":1.08,"Concentration_mol_L":1.05,"Concentration_Change":-0.15}
+{"Experiment_ID":"EXP002","Time_min":20,"Temperature_C":39,"Pressure_bar":1.14,"Concentration_mol_L":0.91,"Concentration_Change":-0.14}
